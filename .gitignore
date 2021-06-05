@@ -1,0 +1,6 @@
+/typescript-todo-app-with-auth/node_modules/
+/typescript-todo-app-with-auth/dist/
+/typescript-todo-app-with-auth/.idea/
+/typescript-todo-app-with-auth/.vscode/
+/typescript-todo-app-with-auth/.env/
+node_modules/
